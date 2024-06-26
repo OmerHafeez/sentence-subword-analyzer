@@ -1,0 +1,9 @@
+You have to write a c++ code to take a string and find all possible subwords in a
+sentence either in reverse or normal way also you have to tell the number of words,
+number of special characters, and number of characters in the sentence.
+Sentence = This is a good assignment everyone can do this good assignment siht.
+Subword = This
+Number of time sub word found = 3
+Number of words = 12
+Number of Characters = 68
+Number of special characters = 1
